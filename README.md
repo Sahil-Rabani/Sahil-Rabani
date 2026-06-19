@@ -10,12 +10,15 @@ Sahil Rabani Software Developer | Backend & Android | Tech Educator<br><br>Drive
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sahil-Rabani&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Rabani&layout=compact&theme=dark"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Sahil-Rabani&theme=dark"/>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Sahil-Rabani&show_icons=true&theme=dark"
+    style="margin-right: 20px;"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Rabani&layout=compact&theme=dark"
+  />
 </p>
 
 ## 🔥 GitHub Streak
