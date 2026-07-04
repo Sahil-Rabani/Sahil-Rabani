@@ -89,6 +89,3 @@
   <a href="https://linkedin.com/in/sahil-rabani">Let's connect</a> — always open to discussing backend systems, Android development, or a good mentoring conversation.
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Sahil-Rabani&icon=2&color=0" alt="Profile Views" />
-</p>
